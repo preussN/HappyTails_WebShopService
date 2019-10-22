@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebShopService.HappyTailsService" CodeBehind="HappyTailsService.svc.cs" %>
